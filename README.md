@@ -1,6 +1,8 @@
 <!-- Profile README -->
 <h1 align="center">✨ Mukul Verma ✨</h1>
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=1ABC9C&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Mukul;AI/ML+Explorer;Developer;Lifelong+Learner" alt="Typing SVG" />
 </p>
