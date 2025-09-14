@@ -12,7 +12,7 @@
 
 ## 🌟 About Me
 - 💻 **Java Developer | AI & ML Enthusiast**  
-- 🎓 Pursuing **B.Tech SC (AI & ML)**  
+- 🎓 Pursuing **B.Tech CSE (AI & ML)**  
 - 🌱 Currently learning **Deep Learning & NLP**  
 - 💡 Interested in **Machine Learning, Web Development, and Open Source**  
 - 🎯 Goal: To build impactful projects and share knowledge  
