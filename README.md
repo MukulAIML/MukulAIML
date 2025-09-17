@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mukul+Verma;Java+Developer;AI/ML+Enthusiast;B.Tech+SC+(AI+%26+ML)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mukul+Verma;Java+Developer;AI/ML+Enthusiast;B.Tech+CSE+(AI+%26+ML)" alt="Typing SVG" />
 </p>
 
 ---
